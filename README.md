@@ -1,4 +1,4 @@
-[![MasterHead](https://quotefancy.com/media/wallpaper/3840x2160/1732153-Mark-Zuckerberg-Quote-The-biggest-risk-is-not-taking-any-risk.jpg)](https://rishavchanda.io)
+[![MasterHead](https://quotefancy.com/media/wallpaper/3840x2160/1732153-Mark-Zuckerberg-Quote-The-biggest-risk-is-not-taking-any-risk.jpg)]
 
 <h1 align="center">Hi 👋, I'm Sarthak Jain</h1>
 <h3 align="center">Passionate Researcher & Developer, in Computer Science & related fields</h3>
