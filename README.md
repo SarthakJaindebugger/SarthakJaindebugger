@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Machine Learning, specifically in DeepLearning areas 
 
-- 🌱 I’m currently learning **Embodied AI & related stuff**
+- 🌱 I’m currently learning **Deep Learning, Embodied AI & related stuff**
 
 - 👨‍💻 Portfolio Link [https://sarthakjaindebugger.github.io/sarthakjainportfolio/](https://sarthakjaindebugger.github.io/sarthakjainportfolio/)
 
