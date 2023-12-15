@@ -13,7 +13,7 @@
 
 - 👨‍💻 Portfolio Link [https://sarthakjaindebugger.github.io/sarthakjainportfolio/](https://sarthakjaindebugger.github.io/sarthakjainportfolio/)
 
-- 📫 How to reach me **shubh2002jain@gmail.com**
+- 📫 How to reach me ** sarthakjainssjj@gmail.com or shubh2002jain@gmail.com**
 
 - 📄 Know about my experiences [https://sarthakjaindebugger.github.io/sarthakjainportfolio/](https://sarthakjaindebugger.github.io/sarthakjainportfolio/)
 
