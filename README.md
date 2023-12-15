@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthakjaindebugger" alt="sarthakjaindebugger" /></a> </p>
 
-- 🔭 I’m currently working on Machine Learning, specifically in DeepLearning areas 
+- 🔭 I’m currently working on Machine Learning, specifically in **DeepLearning areas** 
 
 - 🌱 I’m currently learning **Deep Learning, Embodied AI & related stuff**
 
 - 👨‍💻 Portfolio Link [https://sarthakjaindebugger.github.io/sarthakjainportfolio/](https://sarthakjaindebugger.github.io/sarthakjainportfolio/)
 
-- 📫 How to reach me ** sarthakjainssjj@gmail.com or shubh2002jain@gmail.com**
+- 📫 How to reach me **sarthakjainssjj@gmail.com or shubh2002jain@gmail.com**
 
 - 📄 Know about my experiences [https://sarthakjaindebugger.github.io/sarthakjainportfolio/](https://sarthakjaindebugger.github.io/sarthakjainportfolio/)
 
