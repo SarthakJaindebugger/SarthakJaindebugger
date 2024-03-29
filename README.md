@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthakjaindebugger" alt="sarthakjaindebugger" /></a> </p>
 
-- 🔭 I’m currently working on Machine Learning, specifically in **DeepLearning areas** 
+- 🔭 I’m currently working on Machine Learning, specifically in **Deep Learning** 
 
 - 🌱 I’m currently learning **Deep Learning, Embodied AI & related stuff**
 
