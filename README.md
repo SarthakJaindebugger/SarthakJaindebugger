@@ -1,7 +1,7 @@
 ![MasterHead](https://quotefancy.com/media/wallpaper/3840x2160/1732153-Mark-Zuckerberg-Quote-The-biggest-risk-is-not-taking-any-risk.jpg)
 
 <h1 align="center">Hi 👋, I'm Sarthak Jain</h1>
-<h3 align="center">Passionate Researcher & Developer, in Computer Science & related fields</h3>
+<h3 align="center">Passionate Researcher & Developer, in Computer Science</h3>
 <img align = "right" src = "logo1.jpeg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakjaindebugger&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakjaindebugger" /> </p>
 
