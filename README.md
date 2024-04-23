@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Sarthak Jain</h1>
 <h3 align="center">Passionate Researcher & Developer, in Computer Science</h3>
-<img align = "right" src = "logo1.jpeg">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakjaindebugger&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakjaindebugger" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthakjaindebugger" alt="sarthakjaindebugger" /></a> </p>
 
 - 🔭 I’m currently working on Machine Learning, specifically in **Deep Learning** 
 
-- 🌱 I’m currently learning **Deep Learning, Embodied AI & related stuff**
+- 🌱 I’m currently learning **NLP**
 
 - 👨‍💻 Portfolio Link [https://sarthakjaindebugger.github.io/sarthakjainportfolio/](https://sarthakjaindebugger.github.io/sarthakjainportfolio/)
 
