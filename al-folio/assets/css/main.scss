@@ -21,3 +21,31 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+// Portfolio-specific simple tech presentation.
+.tech-hero-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.tech-card,
+.projects-intro,
+.publications-note {
+  border: 1px solid var(--global-divider-color);
+  border-radius: 14px;
+  padding: 1rem;
+  background: var(--global-card-bg-color);
+}
+
+.tech-card h3 {
+  font-size: 1.05rem;
+  margin-bottom: 0.5rem;
+}
+
+.tech-card p,
+.projects-intro p,
+.publications-note p {
+  margin-bottom: 0;
+}

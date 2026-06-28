@@ -3,51 +3,58 @@ layout: about
 title: About
 permalink: /
 
-subtitle: 
+subtitle: Full-stack AI engineer · NLP/speech researcher · MLOps-minded builder
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-     <p> </p>
-     <p> </p>
-     <p> </p>
+    <p>Geneva, Switzerland</p>
+    <p>Switzerland B Permit</p>
+    <p><a href="mailto:Sarthak.Jain@etu.unige.ch">Sarthak.Jain@etu.unige.ch</a></p>
 
 news: false
-selected_papers: false
+selected_papers: true
 social: true
-latest_posts:
-  - date: "March 7, 2024"
-    link: "https://www.linkedin.com/feed/update/urn:li:activity:7167929915160416257/"
-    description: "Webinar on Quantum Computing by IIT Madras"
-  - date: "February 6, 2024"
-    link: "https://www.linkedin.com/feed/update/urn:li:activity:7158450504539283457/"
-    description: "Webinar on Human-Robot Interaction by Stanford University"
-  - date: "April 6, 2023"
-    link: "https://www.linkedin.com/feed/update/urn:li:activity:7051565419035279361/"
-    description: "Webinar on Snow Leopard Conservation by WWF"  
 ---
 
-A flora and fauna lover, with deep research interest in Machine Learning domain of **Natural Langauge Processing (NLP)**. I work broadly in the areas of Automatic Speech Recognition (ASR), Large Language Models (LLMs), Signal Processing and Machine Learning Operations (MLOps). I'm also fascinated in exploring the areas of Computer Vision, Embodied AI, Robotics & Multi Agent Systems.
+I build **production-minded AI systems** at the intersection of **NLP, speech, multimodal learning, and full-stack software engineering**. My work spans research prototypes, reproducible training pipelines, and deployed applications using **React, Flask/FastAPI, Docker, vector search, BM25/FAISS retrieval, PyTorch, Hugging Face, AWS, and MLOps workflows**.
 
-Beyond technical stuff, I love hitting the gym, write poetry & stories, experiment with music & technology by creating short tunes & lyric less musics. Also, when I unwind, I'm drawn to Netflix webseries & films for entertainment.
+I am currently pursuing an **M.Sc. in Computer Science and Mathematics at the University of Geneva** and have worked with research and product teams across **Aalto University, FriskaAI, IIIT Hyderabad, EY, Sony, USC AIISC, IIIT Delhi, and IIT Ropar**. I am especially interested in roles where I can turn deep ML research into robust user-facing tools: **RAG systems, speech AI, multilingual diarization, LLM evaluation, multimodal safety, and AI-enabled full-stack products**.
 
-I am **open to collaborating** with individuals/ groups/ labs who share similar
- research interests, with the aim of working on a novel project and subsequently publishing a paper in a core A/A* conference or a reputable journal.
+<div class="tech-hero-grid">
+  <div class="tech-card">
+    <h3>AI + NLP Engineering</h3>
+    <p>LLM fine-tuning, RAG, embeddings, FAISS, LangChain, Hugging Face APIs, hallucination evaluation, and document intelligence.</p>
+  </div>
+  <div class="tech-card">
+    <h3>Speech + Multimodal Research</h3>
+    <p>ASR, VAD, diarization, SER, audio deepfake detection, text-to-video hallucination benchmarks, and audio-visual alignment.</p>
+  </div>
+  <div class="tech-card">
+    <h3>Full-stack Delivery</h3>
+    <p>React, Flask/FastAPI, Docker, AWS, Flutter, CI/CD, APIs, database-backed apps, and deployment-ready research demos.</p>
+  </div>
+</div>
 
-I can be reached at **sarthakjainssjj@gmail.com** & for urgent matters, please use **shubh2002jain@gmail.com**.
+## What I bring
 
-{% if page.latest_posts %}
-<section>
-  <h2>Latest Posts/ News</h2>
-  <ul>
-    {% for post in page.latest_posts %}
-    <li>
-      <span>{{ post.date }}</span>
-      <a href="{{ post.link }}">{{ post.description }}</a>
-    </li>
-    {% endfor %}
-  </ul>
-</section>
-{% endif %}
+- **Research depth:** 9 publications/accepted works across Interspeech, ICASSP, ACL TrustNLP, and IEEE Networking Letters.
+- **Applied AI impact:** Built SansadGPT-style RAG pipelines that reduced manual parliamentary document search time by **85%**.
+- **Speech expertise:** Achieved reported SOTA results in violence detection, speech emotion recognition, depression detection, and audio/multimodal tasks.
+- **Software ownership:** Delivered web/mobile/cloud systems across React, Flask, Flutter, AWS Lambda, Docker, vector databases, and APIs.
+- **Global collaboration:** Experience across Switzerland, Finland, India, USA remote teams, and international research conferences.
+
+## Selected systems
+
+- **Multilingual immigrant-support AI system:** ASR + TTS + GenAI orchestration, RAG with vector search and BM25, React/Flask full-stack application, privacy-aware user/admin workflows.
+- **SansadGPT:** NLP and RAG chatbot over large structured/unstructured parliamentary corpora with FAISS, LangChain, Hugging Face, and document mining.
+- **ViBe benchmark:** 3,500+ video benchmark for hallucinations in text-to-video diffusion models, converted into an ACL TrustNLP 2025 publication.
+- **SeQuiFi:** Sequential class-finetuning approach to mitigate catastrophic forgetting in speech emotion recognition.
+
+## Core stack
+
+`Python` · `PyTorch` · `TensorFlow` · `Hugging Face` · `LLMs` · `RAG` · `FAISS` · `LangChain` · `Speech Processing` · `NLP` · `React` · `Flask` · `FastAPI` · `Node.js` · `Docker` · `AWS` · `Flutter` · `MySQL` · `Git/GitHub`
+
+I am open to **full-stack AI engineer, applied AI research engineer, NLP engineer, speech AI engineer, and research software engineer** opportunities.

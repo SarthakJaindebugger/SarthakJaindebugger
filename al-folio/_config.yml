@@ -2,19 +2,19 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Sarthak Jain # the website title (if blank, full name will be used instead)
 first_name: Sarthak
 middle_name: 
 last_name: Jain
-email: sarthakjainssjj@gmail.com
+email: Sarthak.Jain@etu.unige.ch
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  
+  Full-stack AI engineer and NLP/speech researcher building deployable LLM, RAG, multimodal, and MLOps systems.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.
   
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: AI engineer, NLP, speech processing, full stack, research engineer, RAG, LLMs, MLOps, portfolio # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🧠 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://sarthakjaindebugger.github.io/SarthakJaindebugger/
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -49,7 +49,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 800px
+max_width: 980px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -123,8 +123,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Sarthak Jain # blog_name will be displayed in your blog page
+blog_description: research notes on AI, NLP, speech, and software engineering
 permalink: /blog/:year/:title/
 
 # Pagination
